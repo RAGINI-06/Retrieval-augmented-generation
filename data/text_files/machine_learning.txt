@@ -1,0 +1,18 @@
+Introduction to Machine Learning
+Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers and machines to learn from data and improve their performance without being explicitly programmed for every task. It allows systems to identify patterns, understand relationships, make predictions, and take decisions based on previous data and experience.
+
+Machine Learning works by using algorithms that analyze large amounts of data, identify hidden patterns, and build mathematical models. These models can then make predictions or decisions when new data is provided. The accuracy of a machine learning model generally improves when it is trained with relevant and sufficient data.
+
+Machine Learning is mainly divided into three types:
+
+1. Supervised Learning: The model is trained using labelled data, where both input and expected output are provided. Examples include email spam detection and house price prediction.
+
+2. Unsupervised Learning: The model is trained using unlabelled data and identifies hidden patterns or groups on its own. Examples include customer segmentation and clustering.
+
+3. Reinforcement Learning: The model learns by interacting with its environment and receives rewards or penalties based on its actions. Examples include robotics and game-playing systems.
+
+Machine Learning is widely used in various fields such as healthcare, banking, education, transportation, e-commerce, cybersecurity, and entertainment. Some common real-life applications include facial recognition, voice assistants, recommendation systems, fraud detection, self-driving cars, and weather forecasting.
+
+Popular programming languages and libraries used in Machine Learning include Python, R, NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch.
+
+In conclusion, Machine Learning plays an important role in modern technology by making systems smarter, more efficient, and capable of solving complex problems. It is one of the key technologies behind Artificial Intelligence and continues to transform different industries.
